@@ -1,23 +1,13 @@
 # CSC Hacks Sample Project Repo
 
-This repo is an example of a team project repository that meets all of [the repository requirements](https://www.notion.so/CSC-Hacks-901a62e005c8494fa342e0cc738101ad#da206965e3ed497f9bd6c1ceebd4fac9). Feel free to download / clone this repository as a starting point.
-
 ## Project Description
-*This is intentionally open-ended, but consider that people will be reading this to get a brief understanding of what you're working on.* Some ideas are:
-* We want to accomplish x, y, z, using technologies x, y, z.
-* We want to do this because of x, y, z.
-* Doing this will require learning x, y, z.
-* We anticipate the following challenges: x, y, z.
+
+* I want to create a Discord bot that will keep track of user's wins and losses posted in the "wins-losses" channel of the CSC Discord server. The bot will keep a count of a user's wins and losses, and user's will be able to access their wins and losses on a specific day, week, month, and year. The bot will also react with gifs whenever a user posts their win/loss in the channel
+* I will be using Node.js and Discord.js along with some sort of data storage for this bot, and it will be my first time doing any thing with JavaScript and online data storage. 
 
 ## Team Information
-Richie Goulazian
+Raied Shoaib
 * Pitt CS, 2023
-* rgoulazian@pitt.edu
-* Richie78321 in the CSC Discord
-* Check out my portfolio site! https://rgoulazian.com/
-
-Ming Wang
-* Pitt CS, 2022
-* zhw78@pitt.edu
-* He smells
-* https://www.linkedin.com/in/zhengmingwang/
+* rms194@pitt.edu
+* raied#4912 in the CSC Discord
+* Connect with me on LinkedIn! https://www.linkedin.com/in/raiedshoaib/
